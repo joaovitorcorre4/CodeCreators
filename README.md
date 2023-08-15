@@ -1,5 +1,5 @@
 # CodeCreators
 
 ## Projeto X
-**tema:** Events
+**tema:** Eventos
 
